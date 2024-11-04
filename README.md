@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-This is a repository for the project of responsive landing page as web development internship program at Prodigy infotech.
+This repository is made with intended purpose for web development project at prodigy infotech. This repository includes Task - 1 for web development i.e., responsive landing page.
